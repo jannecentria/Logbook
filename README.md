@@ -8,4 +8,5 @@ This logbook tracks my daily progress, hours spent, challenges faced, and plans 
 | 30.10.2024 | 2          | Kick-off lecture        | Lecture recording    | Understanding project goals    | Review project slides     |
 | 01.25.2025 | 1         | Research on Git & Markdown | Created Git repo    | no challences       | Practice with examples    
 | 01.25.2025 | 1          | Worked on assignment    | Drafted introduction | no challences   | Seek feedback from peers  |
+| 02.09.2025 | 2          | Introduction to the portswigger environment       | Completed SQL Injection & Authentication labs | Difficulty with payload crafting | Review results and try additional attack types |
 
