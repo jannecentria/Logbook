@@ -13,6 +13,8 @@ This logbook tracks my daily progress, hours spent, challenges faced, and plans 
 | 09.02.2025 | 5          | Introduction to the portswigger environment       | Completed SQL Injection & Authentication labs | Difficulty with payload crafting | Review results and try additional attack types |
 | 20.02.2025 | 5          | Booking System Penetration Testing           | Performed testing on registration page     | Application flaws, weak password handling, XSS vulnerabilities | Send assignment                                    |
 | 16.03.2025 | 7  | Tested & Cracked Passwords + ZAP Penetration Test| Cracked passwords and did penetration test for updated app | - Needed to increase ram in vb for Hashcat difficulty cracking some passwords|Send Task with cracked passwords and links|
+| 04.04.2025 | 6          | Authorization Testing Task      | Docker deployment, manual role testing, ZAP scan, authorization table in Markdown | ZAP alerts interpretation, verifying role access boundaries         |  submit       |
+
 
 
 
