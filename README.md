@@ -11,7 +11,8 @@ This logbook tracks my daily progress, hours spent, challenges faced, and plans 
 | 25.01.2025 | 4         | Research on Git & Markdown | Created Git repo    | no challences       | Practice with examples    
 | 25.01.2025 | 4          | Worked on assignment    | Drafted introduction | no challences   | Seek feedback from peers  |
 | 09.02.2025 | 5          | Introduction to the portswigger environment       | Completed SQL Injection & Authentication labs | Difficulty with payload crafting | Review results and try additional attack types |
-| 20.02.2025 | 5          | Booking System Penetration Testing           | Performed testing on registration page     | Application flaws, weak password handling, XSS vulnerabilities | Send assignment                                    |
+| 20.02.2025 | 5          | Booking System Penetration Testing           | Performed testing on registration page     | Application flaws, weak password handling, XSS vulnerabilities | Send assignment                       |
+| 09.02.2025 | 5          | Introduction to the PortSwigger environment; Completed SQL Injection & Authentication labs | Gained understanding of SQL injection techniques and authentication bypass methods | Difficulty with payload crafting; understanding complex injection scenarios | Review lab results; attempt additional attack types; study advanced payload techniques |
 | 16.03.2025 | 7  | Tested & Cracked Passwords + ZAP Penetration Test| Cracked passwords and did penetration test for updated app | - Needed to increase ram in vb for Hashcat difficulty cracking some passwords|Send Task with cracked passwords and links|
 | 04.04.2025 | 6          | Authorization Testing Task      | Docker deployment, manual role testing, ZAP scan, authorization table in Markdown | ZAP alerts interpretation, verifying role access boundaries         |  submit       |
 
