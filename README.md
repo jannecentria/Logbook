@@ -6,7 +6,7 @@ This logbook tracks my daily progress, hours spent, challenges faced, and plans 
 | Date       | Used Hours | Subjects/Activities     | Output               | Challenges Faced               | Next Steps                |
 |------------|------------|-------------------------|----------------------|--------------------------------|---------------------------|
 | 30.10.2024 | 2          | Kick-off lecture        | Lecture recording    | Understanding project goals    | Review project slides     |
-|   1.2.2025 | 6          | Introduction to Cybersecurity Module exams and study | All modules done (92% points) | 
+|   1.2.2025 | 6          | Introduction to Cybersecurity Module exams and study | All neccecary modules done (92% points) | 
 |  | 12        | Studying Material | 
 | 25.01.2025 | 4         | Research on Git & Markdown | Created Git repo    | no challences       | Practice with examples    
 | 25.01.2025 | 4          | Worked on assignment    | Drafted introduction | no challences   | Seek feedback from peers  |
