@@ -15,7 +15,7 @@ This logbook tracks my daily progress, hours spent, challenges faced, and plans 
 | 18.04.2025 | 4.5        | Did second round of testing for phase 1 | - Application accessible at http://localhost:8000/register<br>- ZAP report: 1 Medium-risk finding (missing CSRF protection)<br>- Updated test report and logbook in GitHub repository | no challences | submit work|
 | 16.03.2025 and 14.4.2025 | 10 | Tested & Cracked Passwords + ZAP Penetration Test| Cracked passwords and did penetration test for updated app | - Needed to increase ram in vb for Hashcat difficulty cracking some passwords|Send Task with cracked passwords and links|
 | 04.04.2025 | 6          | Authorization Testing Task      | Docker deployment, manual role testing, ZAP scan, authorization table in Markdown | ZAP alerts interpretation, verifying role access boundaries         |  submit
-|| 18.04.2025               | 4.5        | GDPR Compliance Review                                    | Deployed Phase 4 application; created `privacypolicy.md`, `termsofservice.md`, and `cookiepolicy.md`; completed GDPR checklist; updated Access Control Matrix; documented findings in logbook | No challenges                                 | Verify CSRF protection implementation      |
+| 18.04.2025               | 4.5        | GDPR Compliance Review                                    | Deployed Phase 4 application; created `privacypolicy.md`, `termsofservice.md`, and `cookiepolicy.md`; completed GDPR checklist; updated Access Control Matrix; documented findings in logbook | No challenges                                 | Verify CSRF protection implementation      |
 
 
 
